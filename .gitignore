@@ -25,9 +25,9 @@ local.properties
 .DS_Store
 
 # Gradle
-gradle/
 gradlew
 gradlew.bat
+gradle-wrapper.properties
 
 # Gradle cache
 .gradle
