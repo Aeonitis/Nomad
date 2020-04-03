@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "285056124142",
+    "firebase_url": "https://kotlogin-a43a5.firebaseio.com",
+    "project_id": "kotlogin-a43a5",
+    "storage_bucket": "kotlogin-a43a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285056124142:android:f448553ca3a815ccb2dfff",
+        "android_client_info": {
+          "package_name": "com.example.kotlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285056124142-0cls1m2uf4cn6334bo67fl9289mnf2gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlogin",
+            "certificate_hash": "cbddfb01efdbecc267adab44299c8a9f61fd94f5"
+          }
+        },
+        {
+          "client_id": "285056124142-hda8378p84o53r172tfvdsdqqa6c4f7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNKjyJGlRrBQ9re32GHnnNa8D6MQfI8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285056124142-hda8378p84o53r172tfvdsdqqa6c4f7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
