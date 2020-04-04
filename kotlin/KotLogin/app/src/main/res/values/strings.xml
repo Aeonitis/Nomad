@@ -23,4 +23,6 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="congratulations_you_are_currently_signed_in">Congratulations, You are currently Signed In</string>
+    <string name="click_here_to_logout">Click Here to Logout</string>
 </resources>
